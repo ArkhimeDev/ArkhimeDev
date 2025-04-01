@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="left">
-  <img src="www.linkedin.com/in/david-buisan-berrocal-b5b3b6239" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </div>
 
