@@ -50,5 +50,5 @@ Here are some ideas to get you started:
 
 ###
 
-[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](www.linkedin.com/in/david-buisan-berrocal-b5b3b6239)
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/david-buisan-berrocal-b5b3b6239)
 
