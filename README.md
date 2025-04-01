@@ -5,7 +5,7 @@
 💡 Me encanta aprender nuevas tecnologías y trabajar en proyectos desafiantes.  
 
 ---
-
+###
 ## 🛠️ Lenguajes y Tecnologías  
 <p align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
@@ -18,7 +18,7 @@
 </p>
 
 ---
-
+###
 ## 💻 Herramientas de Desarrollo  
 <p align="left">
   <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /></a>
@@ -29,7 +29,7 @@
 </p>
 
 ---
-
+###
 ## 📊 Estadísticas de GitHub  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ArkhimeDev&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
@@ -37,15 +37,15 @@
 </p>
 
 ---
-
+###
 ## 📫 Contacto  
 <p align="left">
   <a href="https://www.linkedin.com/in/david-buisan-berrocal-b5b3b6239" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email" />
+  <a href="mailto:hues82@hotmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="40" alt="Email" />
   </a>
 </p>
-
+###
 💼 **¿Buscas un desarrollador?** ¡Hablemos! Estoy abierto a nuevas oportunidades. 🚀  
