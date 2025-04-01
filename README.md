@@ -6,6 +6,7 @@
 
 ---
 <br>
+
 ## 🛠️ Lenguajes y Tecnologías  
 <p align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" /></a>
@@ -17,7 +18,7 @@
   <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" /></a>
 </p>
 
----
+<br>
 
 ## 💻 Herramientas de Desarrollo  
 <p align="left">
@@ -29,6 +30,7 @@
 </p>
 
 <br>
+
 ---
 ## 📫 Contacto  
 <p align="left">
